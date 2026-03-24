@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hey 👋,  I'm Pratik<br><br>🤖 AI Enthusiast | 💻 Python Learner | 🚀 Building My Journey in Artificial Intelligence<br><br> 👨‍💻 About Me<br><br>🔭 I’m currently working on  <br>- Building real-world Python projects  <br>- Improving problem-solving skills  <br><br>👯 I’m looking to collaborate on  <br>- Open Source Projects  <br>- Beginner to intermediate level applications  <br><br>🤝 I’m looking for help with  <br>- Advanced Python concepts  <br>- Project structuring & best practices  <br><br>🌱 I’m currently learning  <br>- Python 🐍  <br>- Web Development (HTML, CSS, JavaScript)  <br><br>💬 Ask me about  <br>- Python 🐍 & Artificial Intelligence 🤖  <br>- Machine Learning basics  <br>- VS Code & developer tools  <br>- Starting your coding journey 🚀  <br><br>⚡ Fun fact  <br>- I can spend hours debugging and still enjoy it 😄  <br><br>🌟 Goals<br><br>- 🚀 Become a skilled Full Stack Developer  <br>- 💡 Build impactful real-world projects  <br>- 📈 Grow consistently in tech  <br><br><br><br>📫 Connect With Me<br><br>- 📧 Email: psp777323@gmail.com<br>- 💼 LinkedIn: www.linkedin.com/in/pratik-patil-b5121b3b7
 
-<!--
-**pratik-ai-dev83/pratik-ai-dev83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@itzz_pratixx_12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pratik-patil-b5121b3b7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pratixx12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psp777323@gmail.com ) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pratik-ai-dev83&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pratik-ai-dev83&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-ai-dev83&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=pratik-ai-dev83&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
